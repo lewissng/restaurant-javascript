@@ -8,7 +8,7 @@ const createWelcomePage = () => {
 
   const welImg = document.createElement('img');
   welImg.classList.add('center');
-  welImg.src = "../dist/img/food.jpg"
+  welImg.src = "img/food.jpg"
   welImg.height = 250;
   welImg.width = 250;
 
